@@ -1,7 +1,8 @@
-INSERT INTO burgers 
+INSERT INTO burgers
     (burger_name, devoured)
-VALUES 
+VALUES
     ("Big Mac", false),
     ("Baconator", false),
     ("In-n-Out Burger", false),
-    ("Whopper", false);
+    ("Whopper", false),
+    ("Whopper Jr.", false);
